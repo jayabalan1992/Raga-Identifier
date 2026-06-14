@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+raga-ai-venv/
+venv/
+.venv/
+env/
+
+# Backend temp files
+backend/temp_audio/
+backend/test.wav
+backend/test_api.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (secrets go here, not in git)
+.env
+.env.local
+.env.production
+
+# Node (for frontend, also covered by frontend/.gitignore)
+node_modules/
+.next/

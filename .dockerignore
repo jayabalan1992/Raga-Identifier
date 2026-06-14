@@ -1,0 +1,12 @@
+raga-ai-venv/
+backend/raga-ai-venv/
+backend/__pycache__/
+backend/temp_audio/
+backend/test.wav
+backend/test_api.wav
+frontend/
+.git/
+*.pyc
+__pycache__/
+node_modules/
+.next/

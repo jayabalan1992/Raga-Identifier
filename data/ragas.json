@@ -1,0 +1,3269 @@
+[
+  {
+    "id": 1,
+    "name": "Kanakangi",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ratnangi",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ganamurti",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vanaspati",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Manavati",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tanarupi",
+    "type": "melakarta",
+    "chakra": "Indu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Senavati",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hanumatodi",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dhenuka",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Natakapriya",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kokilapriya",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Rupavati",
+    "type": "melakarta",
+    "chakra": "Netra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gayakapriya",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vakulabharanam",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mayamalavagowla",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chakravakam",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Suryakantam",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Hatakambari",
+    "type": "melakarta",
+    "chakra": "Agni",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jhankaradhvani",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Natabhairavi",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Keeravani",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Kharaharapriya",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gaurimanohari",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Varunapriya",
+    "type": "melakarta",
+    "chakra": "Veda",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mararanjani",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Charukesi",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sarasangi",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Harikambhoji",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dheerasankarabharanam",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Naganandini",
+    "type": "melakarta",
+    "chakra": "Bana",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Yagapriya",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ragavardhani",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Gangeyabhushani",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Vagadheeswari",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Shulini",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Chalanata",
+    "type": "melakarta",
+    "chakra": "Ritu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M1",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Salagam",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Jalarnavam",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jhalavarali",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Navaneetam",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pavani",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Raghupriya",
+    "type": "melakarta",
+    "chakra": "Rishi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Gavambhodi",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bhavapriya",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Shubhapantuvarali",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Shadvidamargini",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Suvarnangi",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Divyamani",
+    "type": "melakarta",
+    "chakra": "Vasu",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dhavalambari",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Namanarayani",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kamavardhini",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ramapriya",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Gamanashrama",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Vishwambhari",
+    "type": "melakarta",
+    "chakra": "Brahma",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Shyamalangi",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Shanmukhapriya",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Simhendramadhyamam",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Hemavati",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Dharmavati",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Neetimati",
+    "type": "melakarta",
+    "chakra": "Disi",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Kantamani",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Rishabhapriya",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Latangi",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Vachaspati",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Mechakalyani",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Chitrambari",
+    "type": "melakarta",
+    "chakra": "Rudra",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Sucharitra",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N1",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Jyotiswarupini",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dhatuvardhani",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Nasikabhushani",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Kosalam",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Rasikapriya",
+    "type": "melakarta",
+    "chakra": "Aditya",
+    "parent_id": null,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D3",
+      "P",
+      "M2",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Todi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 8,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Darbari Kanada",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 8,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Malahari",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "M1",
+      "P",
+      "D1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Saveri",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "M1",
+      "P",
+      "D1",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Bowli",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "P",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "P",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Revagupti",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "M1",
+      "P",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "M1",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Lalitha",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Gowla",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 15,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "P",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Vasanta",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 17,
+    "arohana": [
+      "S",
+      "G3",
+      "M1",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "M1",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Hindolam",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 20,
+    "arohana": [
+      "S",
+      "G2",
+      "M1",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "M1",
+      "G2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Shuddha Dhanyasi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 20,
+    "arohana": [
+      "S",
+      "G2",
+      "M1",
+      "P",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "P",
+      "M1",
+      "G2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Bhairavi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 20,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Jonpuri",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 20,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kiravani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 21,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Abhogi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D2",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sri Ranjani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Madhyamavati",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "P",
+      "M1",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kapi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sree",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "P",
+      "D2",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Reethi Gowla",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 22,
+    "arohana": [
+      "S",
+      "G2",
+      "R2",
+      "G2",
+      "M1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "M1",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mohanam",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D2",
+      "P",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kambhoji",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Yadukula Kambhoji",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Surutti",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Khamas",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sahana",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Nattai Kurinji",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kedaram",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Nalinakanthi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "G3",
+      "M1",
+      "P",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Shuddha Saveri",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 28,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D2",
+      "P",
+      "M1",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Hamsadhwani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "P",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Bilahari",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Arabhi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Devagandhari",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Hamsanandi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "M1",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Shankarabharanam",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kaanada",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "R2",
+      "M1",
+      "P",
+      "N3",
+      "D2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Neelambari",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M1",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Valaji",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 29,
+    "arohana": [
+      "S",
+      "G3",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "G3",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Gambhiranata",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 36,
+    "arohana": [
+      "S",
+      "R3",
+      "G3",
+      "P",
+      "D3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "D3",
+      "P",
+      "G3",
+      "R3",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Shubhapantuvarali",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 45,
+    "arohana": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Pantuvarali",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 51,
+    "arohana": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R1",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Chinthamani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 56,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "D1",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "D1",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Madhuvanti",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 57,
+    "arohana": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kalyani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mohana Kalyani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Saranga",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "M2",
+      "P",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "M2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Amritavarshini",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "G3",
+      "M2",
+      "P",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "P",
+      "M2",
+      "G3",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Hameer Kalyani",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Saraswati",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "P",
+      "M2",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sunadavinodini",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 65,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "D2",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D2",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Reetigowla",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 64,
+    "arohana": [
+      "S",
+      "G3",
+      "R2",
+      "G3",
+      "M2",
+      "N2",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N2",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Latangi",
+    "type": "janya",
+    "chakra": null,
+    "parent_id": 63,
+    "arohana": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S"
+    ],
+    "avarohana": [
+      "S",
+      "N3",
+      "D1",
+      "P",
+      "M2",
+      "G3",
+      "R2",
+      "S"
+    ]
+  }
+]
