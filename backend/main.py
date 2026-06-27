@@ -12,16 +12,10 @@ class MidiRequest(BaseModel):
 
 app = FastAPI(title="Raga AI API")
 
-# Setup CORS – allow both local dev and production frontend
-allowed_origins = ["http://localhost:3000"]
-frontend_url = os.environ.get("FRONTEND_URL")
-if frontend_url:
-    allowed_origins.append(frontend_url)
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
