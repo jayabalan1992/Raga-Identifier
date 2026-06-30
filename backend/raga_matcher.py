@@ -18,9 +18,22 @@ class RagaMatch(BaseModel):
     arohana_swaras: List[SwaraInfo] = []
     avarohana_swaras: List[SwaraInfo] = []
 
-def load_ragas(file_path: str = "../data/ragas.json"):
+def load_ragas(file_path: str = None):
+    if file_path is None:
+        base_dir = os.path.dirname(__file__)
+        candidates = [
+            os.path.join(base_dir, "../data/ragas.json"),
+            os.path.join(base_dir, "data/ragas.json"),
+        ]
+        for path in candidates:
+            if os.path.exists(path):
+                file_path = path
+                break
+        if not file_path:
+            file_path = os.path.join(base_dir, "../data/ragas.json") # Fallback to error naturally
+
     try:
-        with open(file_path, "r") as f:
+        with open(file_path, 'r') as f:
             return json.load(f)
     except Exception as e:
         print(f"Error loading ragas: {e}")
@@ -51,7 +64,7 @@ def match_ragas(detected_swara_names, tonic_pc, top_n=5):
       - A raga that is a superset of detected notes scores lower (low recall)
       - Completely unrelated ragas score near 0%
     """
-    ragas_db = load_ragas(os.path.join(os.path.dirname(__file__), "../data/ragas.json"))
+    ragas_db = load_ragas()
     
     parent_names = {}
     for r in ragas_db:

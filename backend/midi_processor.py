@@ -44,9 +44,22 @@ SWARA_TO_SEMITONE = {
 
 PITCH_CLASS_NAMES = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 
-def load_ragas(file_path: str = "../data/ragas.json"):
+def load_ragas(file_path: str = None):
+    if file_path is None:
+        base_dir = os.path.dirname(__file__)
+        candidates = [
+            os.path.join(base_dir, "../data/ragas.json"),
+            os.path.join(base_dir, "data/ragas.json"),
+        ]
+        for path in candidates:
+            if os.path.exists(path):
+                file_path = path
+                break
+        if not file_path:
+            file_path = os.path.join(base_dir, "../data/ragas.json") # Fallback to error naturally
+
     try:
-        with open(file_path, "r") as f:
+        with open(file_path, 'r') as f:
             return json.load(f)
     except Exception as e:
         print(f"Error loading ragas: {e}")
@@ -125,7 +138,7 @@ def analyze_midi_notes(notes: List[int]) -> AnalysisResult:
     swara_info_desc = semitones_to_swara_info(detected_desc)
 
     # Raga Matching
-    ragas_db = load_ragas(os.path.join(os.path.dirname(__file__), "../data/ragas.json"))
+    ragas_db = load_ragas()
 
     # Build parent name lookup
     parent_names = {}

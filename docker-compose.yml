@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    # Mount volumes for hot-reloading code changes without rebuilding
+    volumes:
+      - ./backend:/app/backend
+      - ./data:/app/data
+
+  frontend:
+    image: node:20
+    working_dir: /app
+    # Mount frontend code for hot-reloading
+    volumes:
+      - ./frontend:/app
+    ports:
+      - "3000:3000"
+    environment:
+      # The browser makes the API requests, so it uses localhost
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    # Install dependencies and start development server
+    command: sh -c "npm install && npm run dev"
+    depends_on:
+      - backend
